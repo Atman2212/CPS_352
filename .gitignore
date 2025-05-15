@@ -1,0 +1,51 @@
+# Visual Studio user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache/files
+.vs/
+*.VC.db
+*.VC.opendb
+
+# CMake-generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.cmake
+
+# Ninja build system files
+*.ninja
+.ninja_deps
+.ninja_log
+rules.ninja
+
+# Build folders
+/build/
+out/
+x64/
+Debug/
+Release/
+*.ilk
+*.pdb
+*.obj
+*.idb
+*.ipch
+
+# Executables
+*.exe
+
+# Log and temp files
+*.log
+*.tmp
+*.cache
+Testing/
+CMakeScratch/
+pkgRedirects/
+
+# Copilot, IDE state
+copilot-chat/
+CopilotIndices/
+FileContentIndex/
+VSWorkspaceState.json
