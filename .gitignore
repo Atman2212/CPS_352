@@ -47,9 +47,6 @@ UserSettings/
 MemoryCaptures/
 
 # Unity IDE project files
-*.csproj
-*.unityproj
-*.sln
 *.suo
 *.tmp
 *.user
