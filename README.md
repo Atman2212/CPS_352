@@ -1,4 +1,4 @@
-# CPS 352: Computer Science Projects (Spring 2025)
+# CPS 352: Concepts and Implementation of Programming Languages (Spring 2025)
 
 This repository contains programming projects completed for CPS 352 at the University of Dayton. Each project showcases core concepts in software engineering across multiple languages and platforms.
 
